@@ -1,5 +1,5 @@
 def new_hash
-  hash={"pair"=""}
+  hash={}
 end
 
 def actor
